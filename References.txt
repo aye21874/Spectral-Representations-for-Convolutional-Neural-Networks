@@ -1,0 +1,11 @@
+References
+https://faces.mpdl.mpg.de/imeji/collection/IXTdg721TwZwyZ8e?q=#
+https://web.cs.wpi.edu/~emmanuel/courses/cs545/S14/slides/lecture10.pdf
+https://www.tensorflow.org/guide/keras/custom_layers_and_models
+https://www.tensorflow.org/api_docs/python/tf/nn/conv2d
+https://www.tensorflow.org/api_docs/python/tf/keras/layers/Conv2D
+https://www.tensorflow.org/api_docs/python/tf/nn/bias_add
+https://github.com/keras-team/keras/blob/v2.7.0/keras/layers/convolutional.py#L531-L689
+https://keras.io/guides/keras_tuner/getting_started/#define-the-search-space
+https://keras.io/guides/keras_tuner/getting_started/
+https://www.tensorflow.org/tutorials/keras/keras_tuner
